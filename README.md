@@ -4,7 +4,7 @@
 Projeto de uma pequena estação meteorológica que captura a umidade do ar e a temperatura do ambiente e exibe em um display.
 
 ## Imagem do projeto
-![Imagem do projeto](".imagens\imagem_1.jpg")
+![Imagem do projeto]("./imagens/imagem_1.jpg")
 
 ## Funcionalidades
 * Captura a Temperatura atual;
@@ -19,7 +19,7 @@ Projeto de uma pequena estação meteorológica que captura a umidade do ar e a 
 * Jumpers;
 
 ## Esquema de ligação
-![Imagem do circuito](".imagens\circuito_DHT.jpg")
+![Imagem do circuito]("./imagens/circuito_DHT.jpg")
 O esquema foi feito com um DHT22 por conta de limitações do programa utilizado. 
 
 ## Lógica
