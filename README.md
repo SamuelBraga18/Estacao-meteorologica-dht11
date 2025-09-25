@@ -19,7 +19,7 @@ Projeto de uma pequena estação meteorológica que captura a umidade do ar e a 
 * Jumpers;
 
 ## Esquema de ligação
-![Imagem do circuito](./imagens/circuito_DHT.jpg)
+![Imagem do circuito](./imagens/circuito_DHT.png)
 O esquema foi feito com um DHT22 por conta de limitações do programa utilizado. 
 
 ## Lógica
